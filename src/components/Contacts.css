@@ -1,0 +1,26 @@
+.contacts{
+    background-color: #242424;
+    color: #fff;
+    padding-top: 4rem;
+    height: 300px;
+}
+
+h1{
+    text-align: center;
+}
+
+.icons{
+    margin-top: 40px;
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    transition: all 0.1s ease;
+}
+
+.icons a:hover{
+    height: 78px;
+    transition: all 0.1s ease;
+    border-bottom: 4px solid cyan;
+}

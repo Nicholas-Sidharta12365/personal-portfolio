@@ -1,0 +1,148 @@
+.content{
+    text-align: center;
+}
+
+.content h1{
+    margin-top: 30px;
+    color: #fff;
+}
+
+.content img{
+    margin-top: 25px;
+    border-radius: 200px;
+    border: 5px solid aqua;
+    box-shadow: 0 0 15px cyan;
+}
+
+.text{
+    margin-top: 25px;
+    padding: 50px 300px;
+    background-color: #242424;
+    color: #fff;
+}
+
+.text h2{
+    font-size: xx-large;
+}
+
+.text h3{
+    margin-top: 10px;
+    font-size: larger;
+}
+
+.text h3 a{
+    text-decoration: none;
+    color: #258cdb;
+}
+
+.tech{
+    background-color: #2A293E;
+    padding: 50px 0px;
+}
+
+.tech h2{
+    color: #fff;
+    font-size: xx-large;
+}
+
+.tech .logo{
+    display: inline-block;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+.tech .logo img{
+    border-color: transparent;
+    box-shadow: none;
+    border-radius: 0px;
+}
+
+.education{
+    background-color: #fff;
+    padding: 50px 0px;
+}
+
+.education h2{
+    color: #242424;
+    font-size: xx-large;
+}
+
+.education .logo a{
+    display: inline-block;
+    column-gap: 20px;
+    justify-content: center;
+}
+
+.education .logo img{
+    display: flex;
+    width: 100px;
+    border-radius: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: none;
+    border-color: transparent;
+}
+
+.organization{
+    background-color: #242148;
+    padding: 50px;
+}
+
+.organization h2{
+    color: #fff;
+    font-size: xx-large;
+}
+
+.organization .logo{
+    display: inline-block;
+    column-gap: 20px;
+    justify-content: center;
+}
+
+.organization .logo img{
+    display: flex;
+    width: 100px;
+    border-radius: 0px;
+    box-shadow: none;
+    border-color: transparent;
+}
+
+@media only screen and (max-width: 1024px) {
+    .text{
+        padding: 50px 100px;
+    }
+}
+
+@media only screen and (max-width: 330px){
+    .content img{
+        width: 50%;
+    }
+
+    .text{
+        padding: 50px 50px;
+    }
+
+    .tech .logo img{
+        width: 100px;
+    }
+
+    .tech h2{
+        font-size: x-large;
+    }
+
+    .education h2{
+        font-size: x-large;
+    }
+
+    .education .logo img{
+        width: 100px;
+    }
+
+    .organization h2{
+        font-size: x-large;
+    }
+
+    .organization .logo img{
+        width: 100px;
+    }
+}
