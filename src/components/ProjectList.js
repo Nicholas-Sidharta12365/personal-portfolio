@@ -19,6 +19,18 @@ function ProjectList() {
                       label='Projects'
                       path='/projects'
                       />
+                      <CardItems
+                      src='images/nightsky.png'
+                      text='The Night Sky: An Educative AR based Space Application'
+                      label='Projects'
+                      path='/projects'
+                      />
+                      <CardItems
+                      src='images/medsync.png'
+                      text='Medsync: Bloodsugar Prediction Application'
+                      label='Projects'
+                      path='/projects'
+                      />
                   </ul>
                 </div>
             </div>

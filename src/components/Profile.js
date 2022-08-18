@@ -25,10 +25,21 @@ function Profile() {
                     <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0c3822689a6e278609fc9888bf5d89f3bdf9e6ea/icons/file_type_sass.svg" alt="SASS" width="80" height="80"/> 
                     <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0c3822689a6e278609fc9888bf5d89f3bdf9e6ea/icons/file_type_js.svg" alt="JS" width="80" height="80"/>
                     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="REACTJS" width="80" height="80"/>
+                    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="VueJs" width="80" height="80"/>
+                    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TAILWIND CSS" width="80" height="80"/>
                     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NODEJS" width="80" height="80"/>
+                    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="80" height="80"/>
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm_ZBIG28rBo7Y4UtP5Y5yhtefAkkRGa3pgfdCtMIycRRygvMBKpvS&usqp=CAE&s" alt="NEXTJS" width="80" height="80"/>
                     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="JAVA" width="80" height="80"/>
                     <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0c3822689a6e278609fc9888bf5d89f3bdf9e6ea/icons/file_type_php.svg" alt="PHP" width="80" height="80"/>
+                    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="80" height="80"/>
+                    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Monggodb" width="80" height="80"/>
                     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="80" height="80"/>
+                </div>
+                <div className="logo">
+                    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="80" height="80"/>
+                    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="80" height="80"/>
+                    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="80" height="80"/>
                 </div>
             </div>
             <div className="education">
